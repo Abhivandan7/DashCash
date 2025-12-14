@@ -19,6 +19,8 @@ Before experiencing the speed of DashCash, you need a few essential tools.
 
 Ensure you have a recent version of Python installed.
 
+**_Heads up: The python version used during the development of the application is Python 3.11 and hence it would be better if the same version is used to avoid other dependency issues_**
+
 - **Check:** Open your terminal/command line and type: `python --version`
 
 ### 2. Required Libraries (The DashCash Engine)
